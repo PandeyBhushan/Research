@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         print("test")
         print("another message for schedular")
         print("checking poll")
-        print 
+        
     }
 
     override func didReceiveMemoryWarning() {
