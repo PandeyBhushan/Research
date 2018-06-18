@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("test")
         print("another message for schedular")
+        print("checking poll")
     }
 
     override func didReceiveMemoryWarning() {
