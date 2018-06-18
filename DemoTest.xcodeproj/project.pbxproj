@@ -430,15 +430,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 5J65FS2656;
 				INFOPLIST_FILE = DemoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.excelityglobal.PodTest.DemoTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.excelityglobal.JenkinTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "b82f4f5f-9557-43c3-8297-64eda99bdd72";
+				PROVISIONING_PROFILE_SPECIFIER = "Jenkin Test";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -448,15 +450,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 5J65FS2656;
 				INFOPLIST_FILE = DemoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.excelityglobal.PodTest.DemoTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.excelityglobal.JenkinTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "0e3f2ddc-8cb3-487a-93c1-b4bc46a1f159";
+				PROVISIONING_PROFILE_SPECIFIER = "Jenkin Test";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
